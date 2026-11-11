@@ -1,6 +1,6 @@
 # Christian Wilford · s3v3n
 
-**AI Architect · Offensive Security Enthusiast · Founder, Singular/ty Labs**
+**AI Architect · Offensive Security Enthusiast · Founder, Singular/ty Defense Solutions, LLC**
 
 I build AI systems, security tooling, and command-center software.
 
